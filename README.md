@@ -1,5 +1,13 @@
 
-# E-commerce Tradicional - README
+### E-commerce Tradicional - README
+
+### Integrantes do Grupo
+- Heytor Pinel Cantelmo da Silva
+- Eduarda Goular Rocha de Azevedo
+- Isabella de Oliveira Pinheiro
+- Pedro Lucas da Silva Benvindo
+- Mateus Azevedo Faria
+- Lucas Lois Florêncio Pires
 
 #       Visão Geral
 Este projeto é um sistema de E-commerce desenvolvido para uma empresa de comércio varejista que deseja vender seus produtos pela internet. O sistema é capaz de realizar o controle de estoque, cadastro de clientes, processamento de pedidos, e emissão de notas fiscais. O sistema não registra detalhes sobre a produção dos produtos, pois a empresa é responsável pela produção interna dos mesmos.

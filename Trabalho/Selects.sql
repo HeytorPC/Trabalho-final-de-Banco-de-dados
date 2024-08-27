@@ -46,6 +46,7 @@ FROM
 	INNER JOIN produtos p ON c.categoria_id = p.categoria_id
 	GROUP BY c.nome;
 
+--4. Consulta da nota fiscal
 SELECT 
     clientes.nome AS Nome_Cliente,
     clientes.cpf AS CPF_Cliente,
@@ -72,7 +73,7 @@ WHERE
     pedidos.pedido_id = 2;
 
 
--- 4. Consulta geral de tabelas
+-- 5. Consulta geral de tabelas
 SELECT * FROM clientes;
 SELECT * FROM funcionarios; 
 SELECT * FROM categorias;
